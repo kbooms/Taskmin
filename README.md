@@ -5,7 +5,7 @@ This is my personal task list application. I started designing and working on it
 Why a terminal app?
 - I want to be able to rapidly generate task lists with as minimal keystrokes as possible.
 - I can save and load simple lists as text files
-- The effort of keeping my fingers on the keyboard and using it as a primary navigation tool will help me becomd a better developer. 
+- The effort of keeping my fingers on the keyboard and using it as a primary navigation tool will help me become a better developer. 
 - Less time on the mouse means less chance to get distracted.
 - I like terminal apps. It's a fun way for me to practice code.
 
